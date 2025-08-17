@@ -1,6 +1,6 @@
 {
   "values": [
-    "benoukos:apply_speed",
-    "benoukos:reset_speed"
+    "devr:apply_speed",
+    "devr:reset_speed"
   ]
 }

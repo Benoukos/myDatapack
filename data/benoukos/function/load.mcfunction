@@ -1,1 +1,1 @@
-say Loaded Datapack!
+say Loaded Datapack 1!

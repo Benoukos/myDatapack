@@ -1,0 +1,1 @@
+execute as @e[type=happy_ghast] if predicate devr:is_rideable run attribute @s minecraft:flying_speed base set 0.1
