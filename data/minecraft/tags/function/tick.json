@@ -1,6 +1,7 @@
 {
   "values": [
     "devr:apply_speed",
-    "devr:reset_speed"
+    "devr:reset_speed",
+    "super_food:tick"
   ]
 }

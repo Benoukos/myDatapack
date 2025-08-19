@@ -1,0 +1,19 @@
+{
+  "criteria": {
+    "eat_steak": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": ["minecraft:command_block"],
+          "item_name": {
+            "text": "Enchanted Steak",
+            "color": "gold"
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "super_food:on_eat"
+  }
+}
