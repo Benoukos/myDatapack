@@ -2,6 +2,7 @@
   "values": [
     "devr:apply_speed",
     "devr:reset_speed",
-    "super_food:tick"
+    "super_food:tick",
+    "benoukos:no_cooldown"
   ]
 }

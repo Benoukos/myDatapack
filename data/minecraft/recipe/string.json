@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "misc",
+	"ingredients": [
+		[
+			"#minecraft:wool"
+		]
+	],
+	"pattern": [
+		"W"
+	],
+	"key": {
+		"W": "#minecraft:wool"
+	},
+	"result": {
+		"id": "minecraft:string",
+		"count": 4
+	}
+}
