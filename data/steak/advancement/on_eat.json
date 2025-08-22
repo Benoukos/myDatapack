@@ -1,0 +1,17 @@
+{
+	"criteria": {
+		"eat_infinite_steak": {
+			"trigger": "minecraft:consume_item",
+			"conditions": {
+				"item": {
+					"components": {
+						"minecraft:custom_data": {"infinite_steak":true}
+					}
+				}
+			}
+		}
+	},
+	"rewards": {
+		"function": "steak:steak/on_eat"
+	}
+}

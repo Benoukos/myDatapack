@@ -1,0 +1,1 @@
+tellraw @p [{"text":"[Datapack]","color":"green"},{"text":" Infinite Steak Loaded","color":"gold"}]
