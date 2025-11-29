@@ -1,0 +1,39 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "equipment",
+	"pattern": [
+		"FFF",
+		"FIF",
+		"FFF"
+	],
+	"key": {
+		"F": [
+			"minecraft:feather"
+		],
+		"I": [
+			"minecraft:iron_boots"
+		]
+	},
+	"ingredients": [],
+	"result": {
+		"id": "minecraft:iron_boots",
+		"components": {
+			"minecraft:attribute_modifiers": [
+				{
+					"type": "minecraft:armor",
+					"id": "minecraft:hermes_boots",
+					"amount": 2,
+					"operation": "add_value"
+				},
+				{
+					"type": "minecraft:movement_speed",
+					"id": "minecraft:hermes_boots",
+					"amount": 0.5,
+					"operation": "add_multiplied_base",
+					"slot": "feet"
+				}
+			],
+			"minecraft:custom_name": "Hermes Boots"
+		}
+	}
+}
