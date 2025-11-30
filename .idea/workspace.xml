@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="117d3471-e21e-4488-922a-a1e9fe1fccd9" name="Changes" comment="Cleaned everything">
-      <change afterPath="$PROJECT_DIR$/data/traxanas/function/boost.mcfunction" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/traxanas/function/give_booster.mcfunction" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/traxanas/function/load.mcfunction" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/traxanas/function/tick.mcfunction" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/traxanas/function/try_boost.mcfunction" afterDir="false" />
-    </list>
+    <list default="true" id="117d3471-e21e-4488-922a-a1e9fe1fccd9" name="Changes" comment="Cleaned everything" />
     <list id="aae2d2cc-602b-48cc-828b-d6b3a0c5bf10" name="Changes by chris" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,21 +14,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Benoukos"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Benoukos&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Benoukos/myDatapack.git",
-    "accountId": "22c2cd9b-362c-43d2-a4a6-6cc67cc2518d"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Benoukos/myDatapack.git&quot;,
+    &quot;accountId&quot;: &quot;22c2cd9b-362c-43d2-a4a6-6cc67cc2518d&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="368BgALKqTL1JmmsW3D6wZx36zc" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -47,12 +41,24 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "project",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/grtho/Desktop/myDatapack"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="myDatapack" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="myDatapack" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="117d3471-e21e-4488-922a-a1e9fe1fccd9" name="Changes" comment="" />

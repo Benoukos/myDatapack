@@ -2,6 +2,7 @@
   "values": [
     "devr:apply_speed",
     "devr:reset_speed",
-    "infinite_villager:load"
+    "infinite_villager:load",
+    "minecraft:attackspeed"
   ]
 }
