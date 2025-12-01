@@ -1,6 +1,7 @@
 {
     "values":[
         "steak:load",
-        "devr:load"
+        "devr:load",
+        "silkyspawner:setup"
     ]
 }

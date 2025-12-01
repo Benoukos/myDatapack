@@ -33,7 +33,17 @@
 					"slot": "feet"
 				}
 			],
-			"minecraft:custom_name": "Hermes Boots"
+			"minecraft:custom_name": {
+				"text": "Iron Hermes Boots",
+				"type": "text",
+				"color": "#ffffff",
+				"font": "minecraft:default",
+				"bold": false,
+				"italic": false,
+				"underlined": false,
+				"strikethrough": false,
+				"obfuscated": false
+			}
 		}
 	}
 }

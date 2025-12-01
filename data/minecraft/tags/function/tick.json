@@ -3,6 +3,7 @@
     "devr:apply_speed",
     "devr:reset_speed",
     "infinite_villager:load",
-    "minecraft:attackspeed"
+    "minecraft:attackspeed",
+    "silkyspawner:tick"
   ]
 }

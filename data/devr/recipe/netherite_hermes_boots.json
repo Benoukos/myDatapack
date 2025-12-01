@@ -1,0 +1,55 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "equipment",
+	"pattern": [
+		"FFF",
+		"FIF",
+		"FFF"
+	],
+	"key": {
+		"F": [
+			"minecraft:feather"
+		],
+		"I": [
+			"minecraft:diamond_boots"
+		]
+	},
+	"ingredients": [],
+	"result": {
+		"id": "minecraft:diamond_boots",
+		"components": {
+			"minecraft:attribute_modifiers": [
+				{
+					"type": "minecraft:armor",
+					"id": "minecraft:hermes_boots",
+					"amount": 3,
+					"operation": "add_value"
+				},
+				{
+					"type": "minecraft:armor_toughness",
+					"id": "minecraft:hermes_boots",
+					"amount": 2,
+					"operation": "add_value"
+				},
+				{
+					"type": "minecraft:movement_speed",
+					"id": "minecraft:hermes_boots",
+					"amount": 0.75,
+					"operation": "add_multiplied_base",
+					"slot": "feet"
+				}
+			],
+			"minecraft:custom_name": {
+				"text": "Diamond Hermes Boots",
+				"type": "text",
+				"color": "#00d6a1",
+				"font": "minecraft:default",
+				"bold": false,
+				"italic": false,
+				"underlined": false,
+				"strikethrough": false,
+				"obfuscated": false
+			}
+		}
+	}
+}

@@ -1,0 +1,1 @@
+attribute @r attack_speed base set 10000
