@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "misc",
+	"pattern": [
+		"RCR",
+		"CEC",
+		"RCR"
+	],
+	"key": {
+		"R": [
+			"minecraft:bone"
+		],
+		"E": "#minecraft:eggs",
+		"C": [
+			"minecraft:arrow"
+		]
+	},
+	"result": {
+		"id": "minecraft:skeleton_spawn_egg"
+	}
+}

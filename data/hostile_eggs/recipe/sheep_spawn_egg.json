@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "LAL",
+    "AEA",
+    "LAL"
+  ],
+  "key": {
+    "A": [
+      "minecraft:mutton"
+    ],
+    "E": "#minecraft:eggs",
+    "L": [
+      "minecraft:white_wool"
+    ]
+  },
+  "result": {
+    "id": "minecraft:sheep_spawn_egg"
+  }
+}

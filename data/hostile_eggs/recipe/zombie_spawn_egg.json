@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "misc",
+	"pattern": [
+		"RCR",
+		"CEC",
+		"RCR"
+	],
+	"key": {
+		"R": [
+			"minecraft:rotten_flesh"
+		],
+		"E": "#minecraft:eggs",
+		"C": [
+			"minecraft:iron_ingot"
+		]
+	},
+	"result": {
+		"id": "minecraft:zombie_spawn_egg"
+	}
+}

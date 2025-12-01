@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " A ",
+    "AEA",
+    " A "
+  ],
+  "key": {
+    "A": [
+      "minecraft:crossbow"
+    ],
+    "E": "#minecraft:eggs"
+  },
+  "result": {
+    "id": "minecraft:pillager_spawn_egg"
+  }
+}

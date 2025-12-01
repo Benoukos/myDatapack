@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "AAA",
+    "AEA",
+    "AAA"
+  ],
+  "key": {
+    "A": [
+      "minecraft:string"
+    ],
+    "E": "#minecraft:eggs"
+  },
+  "result": {
+    "id": "minecraft:cave_spider_spawn_egg"
+  }
+}

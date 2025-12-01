@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "DAD",
+    "AEA",
+    "DAD"
+  ],
+  "key": {
+    "A": [
+      "minecraft:cobblestone"
+    ],
+    "E": "#minecraft:eggs",
+    "D": [
+      "minecraft:stone"
+    ]
+  },
+  "result": {
+    "id": "minecraft:silverfish_spawn_egg"
+  }
+}

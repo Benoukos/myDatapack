@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "DAD",
+    "AEA",
+    "DAD"
+  ],
+  "key": {
+    "A": [
+      "minecraft:magma_cream"
+    ],
+    "E": "#minecraft:eggs",
+    "D": [
+      "minecraft:magma_block"
+    ]
+  },
+  "result": {
+    "id": "minecraft:magma_cube_spawn_egg"
+  }
+}

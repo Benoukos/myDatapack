@@ -4,6 +4,7 @@
     "devr:reset_speed",
     "infinite_villager:load",
     "minecraft:attackspeed",
-    "silkyspawner:tick"
+    "silkyspawner:tick",
+    "minecraft:recipegiver"
   ]
 }

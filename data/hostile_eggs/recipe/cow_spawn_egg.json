@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "LAL",
+    "AEA",
+    "LAL"
+  ],
+  "key": {
+    "A": [
+      "minecraft:beef"
+    ],
+    "E": "#minecraft:eggs",
+    "L": [
+      "minecraft:leather"
+    ]
+  },
+  "result": {
+    "id": "minecraft:cow_spawn_egg"
+  }
+}

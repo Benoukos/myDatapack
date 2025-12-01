@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ATA",
+    "TET",
+    "ATA"
+  ],
+  "key": {
+    "A": [
+      "minecraft:emerald"
+    ],
+    "E": "#minecraft:eggs",
+    "T":[
+      "minecraft:totem_of_undying"
+    ]
+  },
+  "result": {
+    "id": "minecraft:evoker_spawn_egg"
+  }
+}

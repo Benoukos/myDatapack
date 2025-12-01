@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "GAG",
+    "AEA",
+    "GAG"
+  ],
+  "key": {
+    "A": [
+      "minecraft:ghast_tear"
+    ],
+    "E": "#minecraft:eggs",
+    "G":[
+      "minecraft:gunpowder"
+    ]
+  },
+  "result": {
+    "id": "minecraft:ghast_spawn_egg"
+  }
+}
