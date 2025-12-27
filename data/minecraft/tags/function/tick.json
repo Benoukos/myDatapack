@@ -5,6 +5,7 @@
     "infinite_villager:load",
     "minecraft:attackspeed",
     "silkyspawner:tick",
-    "minecraft:recipegiver"
+    "minecraft:recipegiver",
+    "staticvillagers:tick"
   ]
 }

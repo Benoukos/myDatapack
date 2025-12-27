@@ -2,6 +2,7 @@
     "values":[
         "steak:load",
         "devr:load",
-        "silkyspawner:setup"
+        "silkyspawner:setup",
+        "staticvillagers:load"
     ]
 }
